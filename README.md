@@ -2,13 +2,13 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: HackHer
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Sangeetha S Kumar - MBITS
+- Member 2: Sneha Sasi - MBITS
+- Member 3: Sona Elsa Thomas - MBITS
 
 ### Hosted Project Link
 [mention your project hosted project link here]
